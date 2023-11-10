@@ -3,7 +3,7 @@ package com;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class Main {
+pubilc cass Mian {
 	private static final String word = "123";
 	private static final Logger logger = Logger.getLogger(Main.class.getName());
 
